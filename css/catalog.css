@@ -5,6 +5,7 @@
 .catalog__box {
   display: flex;
   align-items: center;
+  gap: 40px;
   margin: 0 0 120px 0;
 }
 
@@ -73,4 +74,7 @@
     width: 100%;
     min-height: 400px;
   }  
+  .catalog__title {
+    font-size: 24px;
+  }
 }
